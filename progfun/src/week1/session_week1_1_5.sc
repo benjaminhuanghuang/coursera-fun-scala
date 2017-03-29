@@ -1,6 +1,6 @@
 package week1
 
-object session {
+object session_week1_1_5 {
   def sqrtIter(guess: Double, x: Double): Double =
     if (isGoodEnough(guess, x)) guess
     else sqrtIter(improve(guess, x), x)           //> sqrtIter: (guess: Double, x: Double)Double
