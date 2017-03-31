@@ -5,7 +5,7 @@
     chars.isEmpty: Boolean returns whether a list is empty
     chars.head: Char returns the first element of the list
     chars.tail: List[Char] returns the list without the first element
-    coins.sorted  : sort list    
+
 
 
 
